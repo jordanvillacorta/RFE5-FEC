@@ -9,3 +9,6 @@ Good Youtube video for learning Sass:
 
 Express Documentation for Routes:
 -- http://expressjs.com/en/4x/api.html#router.route
+
+NPM Documentation for Proxy:
+-- https://www.npmjs.com/package/express-http-proxy
