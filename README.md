@@ -12,3 +12,6 @@ Express Documentation for Routes:
 
 NPM Documentation for Proxy:
 -- https://www.npmjs.com/package/express-http-proxy
+
+Great resource for how to build a Node.js Proxy Server:
+-- https://www.twilio.com/blog/node-js-proxy-server
