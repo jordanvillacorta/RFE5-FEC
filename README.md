@@ -18,3 +18,6 @@ Great resource for how to build a Node.js Proxy Server:
 
 Good article for how to set up react with a proxy to the backend server:
 -- https://medium.com/bb-tutorials-and-thoughts/react-how-to-proxy-to-backend-server-5588a9e0347
+
+Official React Documentation for Using Context:
+-- https://reactjs.org/docs/context.html#when-to-use-context
