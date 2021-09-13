@@ -21,3 +21,6 @@ Good article for how to set up react with a proxy to the backend server:
 
 Official React Documentation for Using Context:
 -- https://reactjs.org/docs/context.html#when-to-use-context
+
+Resource for React-Ratings, Github link with documentation and code:
+-- https://github.com/dreyescat/react-rating
