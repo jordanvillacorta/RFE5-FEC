@@ -24,3 +24,6 @@ Official React Documentation for Using Context:
 
 Resource for React-Ratings, Github link with documentation and code:
 -- https://github.com/dreyescat/react-rating
+
+** FUTURE READ FOR ASYNC/AWAIT CODE **
+-- https://flaviocopes.com/how-to-return-result-asynchronous-function/
