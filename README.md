@@ -27,3 +27,6 @@ Resource for React-Ratings, Github link with documentation and code:
 
 ** FUTURE READ FOR ASYNC/AWAIT CODE **
 -- https://flaviocopes.com/how-to-return-result-asynchronous-function/
+
+Great MDN Documentation for CSS's Justify-Content and all the values it has (with visuals):
+-- https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
