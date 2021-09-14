@@ -30,3 +30,6 @@ Resource for React-Ratings, Github link with documentation and code:
 
 Great MDN Documentation for CSS's Justify-Content and all the values it has (with visuals):
 -- https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+
+Great Resource / Complete Guide to understanding and learning Flexbox:
+-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/#order
