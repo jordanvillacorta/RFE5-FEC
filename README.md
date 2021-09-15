@@ -33,3 +33,6 @@ Great MDN Documentation for CSS's Justify-Content and all the values it has (wit
 
 Great Resource / Complete Guide to understanding and learning Flexbox:
 -- https://css-tricks.com/snippets/css/a-guide-to-flexbox/#order
+
+Stack Overflow resource for formatting Dates (with more resources in the SO Answer):
+-- https://stackoverflow.com/questions/1056728/where-can-i-find-documentation-on-formatting-a-date-in-javascript
