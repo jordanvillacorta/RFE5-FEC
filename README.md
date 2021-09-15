@@ -36,3 +36,4 @@ Great Resource / Complete Guide to understanding and learning Flexbox:
 
 Stack Overflow resource for formatting Dates (with more resources in the SO Answer):
 -- https://stackoverflow.com/questions/1056728/where-can-i-find-documentation-on-formatting-a-date-in-javascript
+-- Link inside answer: https://www.webdevelopersnotes.com/javascript-date-and-time
