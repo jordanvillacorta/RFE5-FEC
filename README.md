@@ -40,3 +40,6 @@ Stack Overflow resource for formatting Dates (with more resources in the SO Answ
 
 ** INCREDIBLE RESOURCE FOR STATE, PROPS, AND CLASS/STATELESS COMPONENTS **
 -- https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654
+
+Really simple, but helpful article on how to increment/decrement a count with React:
+-- https://medium.com/@aghh1504/2-increment-and-decrease-number-onclick-react-5767b765103c
