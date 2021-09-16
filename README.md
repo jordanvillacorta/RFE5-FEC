@@ -37,3 +37,6 @@ Great Resource / Complete Guide to understanding and learning Flexbox:
 Stack Overflow resource for formatting Dates (with more resources in the SO Answer):
 -- https://stackoverflow.com/questions/1056728/where-can-i-find-documentation-on-formatting-a-date-in-javascript
 -- Link inside answer: https://www.webdevelopersnotes.com/javascript-date-and-time
+
+** INCREDIBLE RESOURCE FOR STATE, PROPS, AND CLASS/STATELESS COMPONENTS **
+-- https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654
