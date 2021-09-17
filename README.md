@@ -43,3 +43,6 @@ Stack Overflow resource for formatting Dates (with more resources in the SO Answ
 
 Really simple, but helpful article on how to increment/decrement a count with React:
 -- https://medium.com/@aghh1504/2-increment-and-decrease-number-onclick-react-5767b765103c
+
+Stack Overflow resource for rounding numbers with JS:
+-- https://stackoverflow.com/questions/51357334/how-would-i-round-a-number-eg-2-12-to-the-nearest-tenth-2-1-in-js
