@@ -46,3 +46,6 @@ Really simple, but helpful article on how to increment/decrement a count with Re
 
 Stack Overflow resource for rounding numbers with JS:
 -- https://stackoverflow.com/questions/51357334/how-would-i-round-a-number-eg-2-12-to-the-nearest-tenth-2-1-in-js
+
+Very detailed article on how to make a bar graph with React:
+-- https://www.createwithdata.com/react-bar-chart
