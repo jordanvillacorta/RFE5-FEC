@@ -1,11 +1,17 @@
 Front End Capstone Documentation / Resources
 ----------------------------------------------------------------
 
+*** SASS DOCS/RESOURCES ***
 Official Sass Documentation for our CSS Framework:
 -- https://sass-lang.com/guide
 
 Good Youtube video for learning Sass:
 -- https://youtu.be/Zz6eOVaaelI
+
+Great article (maybe for future-use) on how to use Sass to create gradient bars:
+-- https://www.prowebdesign.ro/sass-gradient-bars-with-reflections/
+
+-----------------------
 
 Express Documentation for Routes:
 -- http://expressjs.com/en/4x/api.html#router.route
