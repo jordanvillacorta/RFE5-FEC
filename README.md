@@ -56,6 +56,11 @@ Stack Overflow resource for rounding numbers with JS:
 Very detailed article on how to make a bar graph with React:
 -- https://www.createwithdata.com/react-bar-chart
 
+-----------------------
+
 *** TESTING *** 
 Official Documentation for React-Jest Testing:
 -- https://testing-library.com/docs/
+
+Great Youtube resource for the React-Jest Testing:
+-- https://www.youtube.com/watch?v=3e1GHCA3GP0
