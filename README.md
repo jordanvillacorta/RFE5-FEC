@@ -27,6 +27,11 @@ Great article (maybe for future-use) on how to use Sass to create gradient bars:
 
 -----------------------
 
+*** REACT DOCS/RESOURCES ***
+
+Official React Documentation for Using Context:
+-- https://reactjs.org/docs/context.html#when-to-use-context
+
 Express Documentation for Routes:
 -- http://expressjs.com/en/4x/api.html#router.route
 
@@ -42,8 +47,7 @@ Good article for how to set up react with a proxy to the backend server:
 Excellent article on how to handle multiple inputs with one onChance function:
 -- https://www.pluralsight.com/guides/handling-multiple-inputs-with-single-onchange-handler-react
 
-Official React Documentation for Using Context:
--- https://reactjs.org/docs/context.html#when-to-use-context
+
 
 Resource for React-Ratings, Github link with documentation and code:
 -- https://github.com/dreyescat/react-rating
