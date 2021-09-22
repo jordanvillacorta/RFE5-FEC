@@ -38,6 +38,15 @@ Excellent article on how to handle multiple inputs with one onChange function:
 Resource for React-Ratings, Github link with documentation and code:
 -- https://github.com/dreyescat/react-rating
 
+Very detailed article on how to make a bar graph with React:
+-- https://www.createwithdata.com/react-bar-chart
+
+** INCREDIBLE RESOURCE FOR STATE, PROPS, AND CLASS/STATELESS COMPONENTS **
+-- https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654
+
+Really simple, but helpful article on how to increment/decrement a count with React:
+-- https://medium.com/@aghh1504/2-increment-and-decrease-number-onclick-react-5767b765103c
+
 -----------------------
 
 Express Documentation for Routes:
@@ -52,7 +61,6 @@ Great resource for how to build a Node.js Proxy Server:
 Good article for how to set up react with a proxy to the backend server:
 -- https://medium.com/bb-tutorials-and-thoughts/react-how-to-proxy-to-backend-server-5588a9e0347
 
-
 ** FUTURE READ FOR ASYNC/AWAIT CODE **
 -- https://flaviocopes.com/how-to-return-result-asynchronous-function/
 
@@ -60,17 +68,8 @@ Stack Overflow resource for formatting Dates (with more resources in the SO Answ
 -- https://stackoverflow.com/questions/1056728/where-can-i-find-documentation-on-formatting-a-date-in-javascript
 -- Link inside answer: https://www.webdevelopersnotes.com/javascript-date-and-time
 
-** INCREDIBLE RESOURCE FOR STATE, PROPS, AND CLASS/STATELESS COMPONENTS **
--- https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654
-
-Really simple, but helpful article on how to increment/decrement a count with React:
--- https://medium.com/@aghh1504/2-increment-and-decrease-number-onclick-react-5767b765103c
-
 Stack Overflow resource for rounding numbers with JS:
 -- https://stackoverflow.com/questions/51357334/how-would-i-round-a-number-eg-2-12-to-the-nearest-tenth-2-1-in-js
-
-Very detailed article on how to make a bar graph with React:
--- https://www.createwithdata.com/react-bar-chart
 
 -----------------------
 
