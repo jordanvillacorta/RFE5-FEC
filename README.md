@@ -1,6 +1,16 @@
 Front End Capstone Documentation / Resources
 ----------------------------------------------------------------
 
+*** CSS DOCS/RESOURCES ***
+
+Great MDN Documentation for CSS's Justify-Content and all the values it has (with visuals):
+-- https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+
+Great Resource / Complete Guide to understanding and learning Flexbox:
+-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/#order
+
+-----------------------
+
 *** SASS DOCS/RESOURCES ***
 Official Sass Documentation for our CSS Framework:
 -- https://sass-lang.com/guide
@@ -33,12 +43,6 @@ Resource for React-Ratings, Github link with documentation and code:
 
 ** FUTURE READ FOR ASYNC/AWAIT CODE **
 -- https://flaviocopes.com/how-to-return-result-asynchronous-function/
-
-Great MDN Documentation for CSS's Justify-Content and all the values it has (with visuals):
--- https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
-
-Great Resource / Complete Guide to understanding and learning Flexbox:
--- https://css-tricks.com/snippets/css/a-guide-to-flexbox/#order
 
 Stack Overflow resource for formatting Dates (with more resources in the SO Answer):
 -- https://stackoverflow.com/questions/1056728/where-can-i-find-documentation-on-formatting-a-date-in-javascript
