@@ -3,8 +3,9 @@ Front End Capstone Documentation / Resources
 
 *** CSS DOCS/RESOURCES ***
 
-Awesome resource Sean gave me for understanding CSS Positions:
+Awesome resources Sean gave me for understanding CSS Positions:
 -- https://css-tricks.com/almanac/properties/p/position/
+-- https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
 Great MDN Documentation for CSS's Justify-Content and all the values it has (with visuals):
 -- https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
