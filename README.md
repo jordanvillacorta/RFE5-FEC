@@ -47,6 +47,9 @@ Very detailed article on how to make a bar graph with React:
 Really simple, but helpful article on how to increment/decrement a count with React:
 -- https://medium.com/@aghh1504/2-increment-and-decrease-number-onclick-react-5767b765103c
 
+Good Stack Overflow answer with configuring how to set the state, value, and onChange of React-Rating:
+https://stackoverflow.com/questions/49641679/how-to-set-state-of-the-value-when-using-react-rating-component-in-my-form
+
 -----------------------
 
 Express Documentation for Routes:
